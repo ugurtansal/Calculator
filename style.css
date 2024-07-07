@@ -1,0 +1,37 @@
+#topApp{
+    background-color:aliceblue;
+}
+
+#clcTxt{
+    font-size: 40px;
+}
+
+.btn{
+    height: 50px;
+    border-radius: 50px;
+    text-align: center;
+    font-weight: bolder;
+    margin-inline-start: auto;
+    margin-top: 5px;
+}
+
+#input{
+    background-color: black; 
+    color: white;
+    height:60px;
+    font-size: 30px;
+    text-align: right;    
+    padding-top: 10px;
+    padding-right: 20px;
+    margin-inline-start: 80px;
+}
+
+#equalsSign{
+    height: 200px;
+    padding-left: 10px;
+    padding-top: 80px;
+    padding-bottom: 100px;
+    background-color: #2e86c0;
+    width: 20px;
+    color: white;
+}
